@@ -1,0 +1,15 @@
+{
+  "short_name": "Soumya",
+  "name": "Soumya Namani Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "HeroImage.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ]
+}
